@@ -1,0 +1,24 @@
+LOST AND FOUND MATCHER - SUMMARY
+========================================
+Run time              : 2026-11-27 16:06
+Lost reports          : 10
+Found reports         : 10
+Suggested pairs       : 9 (likely: 6, possible: 3)
+Lost with no match    : 3
+Unclaimed found items : 3
+Manual review flags   : 1  ['L09']
+Double claims         : 2
+
+DOUBLE CLAIM ALERTS
+----------------------------------------
+Found item F01: "Black Samsung phone found on a library table"
+   - L01 | score 5 (likely) | same item category (phone); same colour (black) +2; same brand (samsung) +2; same place (library / a library) +1; reported 0 day(s) apart
+   - L08 | score 2 (possible) | same item category (phone); same colour (black) +2; reported 6 day(s) apart
+   ACTION: Do NOT hand over yet. Ask the claimant for an extra identifying detail that appears in neither report. Ask EVERY claimant listed above.
+
+Found item F07: "Black phone found near the canteen"
+   - L08 | score 2 (possible) | same item category (phone); same colour (black) +2; reported 0 day(s) apart
+   - L01 | score 2 (possible) | same item category (phone); same colour (black) +2; reported 6 day(s) apart
+   ACTION: Do NOT hand over yet. Ask the claimant for an extra identifying detail that appears in neither report. Ask EVERY claimant listed above.
+
+NOTE: These are suggestions only. The help desk must confirm the owner.

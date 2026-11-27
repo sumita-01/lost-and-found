@@ -1,0 +1,4 @@
+id,date,report,item,colour,brand,place,manual_review,reason
+L07,2026-10-10,Black backpack missing near the bus stop,backpack,black,,bus stop,no,No found report passed the matching rules
+L09,2026-10-12,I lost something near the library,,,,library,YES,MANUAL REVIEW - report is vague or incomplete (missing item/details); no automatic match attempted
+L10,2026-10-13,Green calculator missing from the mathematics classroom,calculator,green,,mathematics classroom,no,No found report passed the matching rules
